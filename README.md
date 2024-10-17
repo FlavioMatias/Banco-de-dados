@@ -19,4 +19,4 @@ Este repositório contém códigos, exemplos e exercícios em SQL para a materia
 ## 🧑‍🎓 Como Usar  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/matiaslog/ASM-arch-MIPS.git
+   git clone https://github.com/matiaslog/Database.git
