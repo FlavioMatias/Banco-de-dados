@@ -7,14 +7,9 @@
 Este repositório contém códigos, exemplos e exercícios em SQL para a materia de **banco de dados**.
 
 ## 📂 Estrutura do Repositório  
-- **/aulas**: anotações e slides sobre as aulas
-- **/exercicios**: Exercícios propostos na disciplina.  
+- **/material**: anotações e slides sobre as aulas
 - **/projetos**: Projetos maiores ou atividades finais.  
 - **/docs**: Material complementar (apostilas, PDFs, slides).  
-
-## 💻 Ferramentas
-- **MARS** (MIPS Assembler and Runtime Simulator)  
-
 
 ## 🧑‍🎓 Como Usar  
 1. Clone o repositório:  
