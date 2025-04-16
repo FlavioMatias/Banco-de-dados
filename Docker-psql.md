@@ -52,7 +52,7 @@ volumes:
 
 ## Como conectar ao banco de dados
 
-1. Acesse o terminal interativo do PostgreSQL:
+1. Acessar o terminal interativo do Postgres:
    ```bash
    docker exec -it my_postgres psql -U myuser -d mydatabase
    ```
@@ -79,10 +79,6 @@ volumes:
        - ./postgres_data:/var/lib/postgresql/data
      ```
      *Cria uma pasta visível no seu diretório*
-
-2. **Segurança**:
-   - Nunca use credenciais simples em produção
-   - Considere usar variáveis de ambiente externas
 
 3. **Backup**:
    ```bash
