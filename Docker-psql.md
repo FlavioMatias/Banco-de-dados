@@ -48,7 +48,7 @@ volumes:
 | `docker compose down` | Para e remove os containers (mantém volumes) |
 | `docker compose down -v` | Para e remove containers e volumes |
 | `docker compose ps` | Lista containers em execução |
-| `docker compose logs -f postgres` | Mostra logs do serviço PostgreSQL |
+
 
 ## Como conectar ao banco de dados
 
