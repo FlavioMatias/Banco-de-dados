@@ -1,0 +1,17 @@
+## link de videoaulas sobre modelagem de dados do canal **Boson Treinamentos**
+
+- 01 - Conceito de Banco de Dados: [https://www.youtube.com/watch?v=Q_KTYFgvu1s&authuser=1](https://www.youtube.com/watch?v=Q_KTYFgvu1s&authuser=1)  
+- 02 - O Modelo Relacional - Introdução: [https://www.youtube.com/watch?v=hGstS10kCPM&authuser=1](https://www.youtube.com/watch?v=hGstS10kCPM&authuser=1)  
+- 03 - Modelos Conceitual, Lógico e Físico: [https://www.youtube.com/watch?v=ZX7EuRWRdZg&authuser=1](https://www.youtube.com/watch?v=ZX7EuRWRdZg&authuser=1)  
+- 04 - Modelo ER e Diagrama ER: [https://www.youtube.com/watch?v=W2Z1STnjNJo&authuser=1](https://www.youtube.com/watch?v=W2Z1STnjNJo&authuser=1)  
+- 05 - O que são Entidades?: [https://www.youtube.com/watch?v=poeUGQl52YI&authuser=1](https://www.youtube.com/watch?v=poeUGQl52YI&authuser=1)  
+- 06 - O que são Atributos?: [https://www.youtube.com/watch?v=59TZc_vRpcQ&authuser=1](https://www.youtube.com/watch?v=59TZc_vRpcQ&authuser=1)  
+- 07 - O que são Relacionamentos?: [https://www.youtube.com/watch?v=KSw0rTGEwPI&authuser=1](https://www.youtube.com/watch?v=KSw0rTGEwPI&authuser=1)  
+- 08 - O que são Cardinalidades?: [https://www.youtube.com/watch?v=OVBFFe4-jSM&authuser=1](https://www.youtube.com/watch?v=OVBFFe4-jSM&authuser=1)  
+- 09 - Chave primária e estrangeira: [https://www.youtube.com/watch?v=sbIT5UXTEg8&authuser=1](https://www.youtube.com/watch?v=sbIT5UXTEg8&authuser=1)  
+- 10 - Restrições de Integridade: [https://www.youtube.com/watch?v=BurdDn16ZgE&authuser=1](https://www.youtube.com/watch?v=BurdDn16ZgE&authuser=1)  
+- 11 - Dicionário de Dados: [https://www.youtube.com/watch?v=-DESqE_GdEA&authuser=1](https://www.youtube.com/watch?v=-DESqE_GdEA&authuser=1)  
+- 12 - Dependências (Funcional, Multivalor...): [https://www.youtube.com/watch?v=koe4GVN_83M&authuser=1](https://www.youtube.com/watch?v=koe4GVN_83M&authuser=1)  
+- 13 - Normalização - 1FN: [https://www.youtube.com/watch?v=eRaAMNjCFYw&authuser=1](https://www.youtube.com/watch?v=eRaAMNjCFYw&authuser=1)  
+- 14 - Normalização - 2FN: [https://www.youtube.com/watch?v=6ER9lWOk-cY&authuser=1](https://www.youtube.com/watch?v=6ER9lWOk-cY&authuser=1)  
+- 15 - Normalização - 3FN: [https://www.youtube.com/watch?v=usA8QKvEHWw&authuser=1](https://www.youtube.com/watch?v=usA8QKvEHWw&authuser=1)  
